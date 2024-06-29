@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/BinniesLite/test_stuff-.git",
   "author": "BinniesLite <89041460+BinniesLite@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
 }
